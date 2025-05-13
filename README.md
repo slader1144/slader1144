@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm from Colombia 
+My name is Julian Ramirez, I'm from Colombia!
 
 💻 **Computer Science student**, currently in the final stage of my degree.  
 🚀 Passionate about technology, software development, and solving problems through code.  
